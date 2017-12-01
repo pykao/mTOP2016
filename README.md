@@ -3,7 +3,7 @@ This repository implement the work of Kao, Po-Yu, et al. "Unsupervised 3-D featu
 https://link.springer.com/chapter/10.1007/978-3-319-55524-9_26
 
 
-You are able to find the details of the mild Traumatic Brain Injury Challenge in the following website:
+You are able to find the details of the mild Traumatic Brain Injury Outcome Prediction (mTOP) Challenge in the following website:
 https://tbichallenge.wordpress.com/
 
 If you think this work does benefit your research, please cite us:

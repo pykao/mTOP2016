@@ -18,3 +18,11 @@ You are able to find more details of the mild Traumatic Brain Injury Outcome Pre
 }
 
 - If you have any question about how to implement our work, you can reach my by sending an email to: poyu_kao@ucsb.edu
+
+# LICENSE
+
+MIT LICENSE.
+
+# Author
+
+[pykao](https://github.com/pykao/), August 2016
